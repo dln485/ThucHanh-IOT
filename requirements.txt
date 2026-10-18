@@ -1,0 +1,9 @@
+paho-mqtt
+influxdb-client
+influxdb3-python
+pyarrow
+pandas
+numpy
+scikit-learn
+streamlit
+plotly
