@@ -132,4 +132,4 @@ Timestamp của dữ liệu thô là giờ lúc Collector nhận bản tin.
 
 ## 11. Ảnh minh họa
 
-(Thêm ảnh chụp dashboard vào đây.)
+docs/dashboard.jpg
